@@ -1,0 +1,4 @@
+name: hipocampo
+version: 1.1.0
+description: "Hipocampo-style learning — online style adaptation via implicit feedback (length, formality, code vs prose). Runs via pre/post_llm_call hooks alongside any memory provider."
+external_dependencies: []
